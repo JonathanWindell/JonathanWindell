@@ -22,7 +22,7 @@ I love discussing the future of the tech industry and am always open to new proj
 
 If you have a project that needs a structured approach or just want to chat about tech, feel free to reach out!
 
-### 🛠️ My Toolbox
+### My Toolbox
 
 #### **Languages & Core Development**
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) [![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff)](#) [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
