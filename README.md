@@ -3,10 +3,10 @@
 
 Hi, I'm Jonathan Windell, a System Science & Management student at the University of Borås.
 
-I am passionate about bridging the gap between technical infrastructure and efficient management. When I'm not at my desk, you'll likely find me outdoors—I’m an avid golfer, climber, and hiker, and I rarely miss a chance to go skiing or running.
+I'm passionate about bridging the gap between technical infrastructure and efficient management. When I'm not at my desk, you'll likely find me outdoors—I’m an avid golfer, climber, and hiker, and I rarely miss a chance to go skiing or running.
 
 ### What I’m Working On
-I am currently deep-diving into IT Infrastructure and building out my homelab. My goal is to move toward data sovereignty and "off-grid" application hosting. You can see the evolution of my setup on my Portfolio.
+I'm currently deep-diving into IT Infrastructure and building out my homelab. My goal is to move toward data sovereignty and "off-grid" application hosting. You can see the evolution of my setup on my Portfolio.
 
 ### I’m Currently Learning
 
@@ -14,7 +14,7 @@ I am currently deep-diving into IT Infrastructure and building out my homelab. M
 - Networking & Security: Exploring Nmap, honeypot deployment, and network scanning to better understand defensive and offensive security.
 
 ### Let’s Collaborate!
-I love discussing the future of the tech industry and am always open to new projects. I’m particularly interested in:
+I love discussing the future of the tech industry and I'm always open to new projects. I'm particularly interested in:
 
 - System Architecture & Technical Documentation
 - CI/CD Pipeline Development
