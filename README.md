@@ -33,6 +33,7 @@ If you have a project that needs a structured approach or just want to chat abou
 | [**n8n-workflows**](https://github.com/JonathanWindell/n8n-workflows) | Collection of custom automation nodes and workflow logic. | `n8n` `Low-Code` | ![Updates](https://img.shields.io/badge/Status-Updates-orange?style=flat-square) |
 | [**Homelab Manuals**](https://github.com/JonathanWindell/Homelab-Manuals) | Documentation and guides for local server infrastructure. | `Docs` `Wiki` | ![Helpful](https://img.shields.io/badge/Status-Docs-informational?style=flat-square) |
 | [**Personal Homelab**](https://github.com/JonathanWindell/Homelab) | Infrastructure-as-code and config files for home server setup. | `Docker` `Self-Hosted` | ![Active](https://img.shields.io/badge/Status-Active-success?style=flat-square) |
+| [**Open Source Portfolio**](https://github.com/JonathanWindell/Open-Source-Portfolio) | Open source contributions I've made. |`Contributions` | ![Active](https://img.shields.io/badge/Status-Active-success?style=flat-square) |
 | [**Net-Observatory**](#) | *IP, MAC & Port analyser for local networks.* | `Python` `NMap`, `ETL` | ![Status](https://img.shields.io/badge/Status-Upcoming-lightgrey?style=flat-square) |
 
 ### Tech Stack & Tools
