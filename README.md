@@ -26,9 +26,9 @@ If you have a project that needs a structured approach or just want to chat abou
 
 | Repository | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| [**API Shell**](https://github.com/JonathanWindell/API-Shell) | CLI utility for streamlined REST API interaction and testing. | `Python` `CLI` | ![Active](https://img.shields.io/badge/Status-Active-success?style=flat-square) |
-| [**Javalite**](https://github.com/JonathanWindell/Javalite) | Lightweight Java utility library for core development tasks. | `Java` `Core` | ![Active](https://img.shields.io/badge/Status-Active-success?style=flat-square) |
-| [**Logthread**](https://github.com/JonathanWindell/Logthread) | High-performance multi-threaded logging implementation. | `Python` `JavaScript` | ![Updates](https://img.shields.io/badge/Status-Updates-orange?style=flat-square) |
+| [**API Shell**](https://github.com/JonathanWindell/API-Shell) | Fully Developed API Shell ready for creating API:s. | `Python` `CLI` | ![Active](https://img.shields.io/badge/Status-Active-success?style=flat-square) |
+| [**Javalite**](https://github.com/JonathanWindell/Javalite) | Lightweight Java microservice for logging. | `Java` `Core` | ![Active](https://img.shields.io/badge/Status-Active-success?style=flat-square) |
+| [**Logthread**](https://github.com/JonathanWindell/Logthread) | AWS integrated loggin service. | `Python` `JavaScript` | ![Updates](https://img.shields.io/badge/Status-Updates-orange?style=flat-square) |
 | [**Gotenberg Scripts**](https://github.com/JonathanWindell/Gotenberg-Scripts) | Automation for high-fidelity PDF conversions via Gotenberg. | `Scripts` `PDF` | ![Active](https://img.shields.io/badge/Status-Active-success?style=flat-square) |
 | [**n8n-workflows**](https://github.com/JonathanWindell/n8n-workflows) | Collection of custom automation nodes and workflow logic. | `n8n` `Low-Code` | ![Updates](https://img.shields.io/badge/Status-Updates-orange?style=flat-square) |
 | [**Homelab Manuals**](https://github.com/JonathanWindell/Homelab-Manuals) | Documentation and guides for local server infrastructure. | `Docs` `Wiki` | ![Helpful](https://img.shields.io/badge/Status-Docs-informational?style=flat-square) |
