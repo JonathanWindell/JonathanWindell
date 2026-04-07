@@ -11,52 +11,45 @@ I'm currently deep-diving into IT Infrastructure and building out my homelab. My
 ### I’m Currently Learning
 
 - Automation: Orchestrating workflows and self-hosted services via n8n.
-- Networking & Security: Exploring Nmap, honeypot deployment, and network scanning to better understand defensive and offensive security.
+- Networking & Security: Exploring how networks are build and configured using IaC
 
 ### Let’s Collaborate!
 I love discussing the future of the tech industry and I'm always open to new projects. I'm particularly interested in:
 
 - System Architecture & Technical Documentation
-- CI/CD Pipeline Development
-- General Software Development
+- CI/CD Pipeline & Testing Development
+- Secure & Scalable Networks with IaC
 
 If you have a project that needs a structured approach or just want to chat about tech, feel free to reach out!
 
 ###  Projects
 
-### Project: Homelab
+**Projects: Homelab & Automation**
 | Repository | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
 | [**Personal Homelab**](https://github.com/JonathanWindell/Homelab) | Config files & overview for home server setup. | `Docker` `Self-Hosted` | ![Active](https://img.shields.io/badge/Status-Active-success?style=flat-square) |
-| [**Homelab IaC**][(https://github.com/JonathanWindell/Homelab)](https://github.com/JonathanWindell/Homelab-IaC) | Infrastructure-as-code for home server | `Terraform` `Ansible` | ![Active](https://img.shields.io/badge/Status-Active-success?style=flat-square) |
+| [**Homelab IaC**](https://github.com/JonathanWindell/Homelab-IaC) | Infrastructure-as-code for home server | `Terraform` `Ansible` | ![Active](https://img.shields.io/badge/Status-Active-success?style=flat-square) |
 | [**Homelab Manuals**](https://github.com/JonathanWindell/Homelab-Manuals) | Documentation and guides for local server infrastructure. | `Docs` `Wiki` | ![Helpful](https://img.shields.io/badge/Status-Docs-informational?style=flat-square) |
-
-### Projects: Open Source & Techical Documentation
-| Repository | Description | Tech Stack | Status |
-| :--- | :--- | :--- | :--- |
-| [**Open Source Portfolio**](https://github.com/JonathanWindell/Open-Source-Portfolio) | Open source contributions I've made. |`Contributions` | ![Active](https://img.shields.io/badge/Status-Active-success?style=flat-square) |
-| [**Git-101**](https://github.com/JonathanWindell/Git-Documentation-101) | Easily understandable git documentation. |`Docs` `Wiki` | ![Helpful](https://img.shields.io/badge/Status-Docs-informational?style=flat-square) |
-
-### Projects: Microservices
-| Repository | Description | Tech Stack | Status |
-| :--- | :--- | :--- | :--- |
-| [**API Shell**](https://github.com/JonathanWindell/API-Shell) | Fully Developed API Shell ready for creating API:s. | `Python` `CLI` | ![Active](https://img.shields.io/badge/Status-Active-success?style=flat-square) |
-| [**Javalite**](https://github.com/JonathanWindell/Javalite) | Lightweight Java microservice for logging. | `Java` `Core` | ![Active](https://img.shields.io/badge/Status-Active-success?style=flat-square) |
-| [**Logthread**](https://github.com/JonathanWindell/Logthread) | AWS integrated loggin service. | `Python` `JavaScript` | ![Active](https://img.shields.io/badge/Status-Active-success?style=flat-square) |
-| [**Gotenberg Scripts**](https://github.com/JonathanWindell/Gotenberg-Scripts) | Automation for high-fidelity PDF conversions via Gotenberg. | `Scripts` `PDF` | ![Active](https://img.shields.io/badge/Status-Active-success?style=flat-square) |
-
-### Projects: In Development
-
-| Repository | Description | Tech Stack | Status |
-| :--- | :--- | :--- | :--- |
-| [**API Shell**](https://github.com/JonathanWindell/API-Shell) | Fully Developed API Shell ready for creating API:s. | `Python` `CLI` | ![Active](https://img.shields.io/badge/Status-Active-success?style=flat-square) |
-| [**Javalite**](https://github.com/JonathanWindell/Javalite) | Lightweight Java microservice for logging. | `Java` `Core` | ![Active](https://img.shields.io/badge/Status-Active-success?style=flat-square) |
-| [**Logthread**](https://github.com/JonathanWindell/Logthread) | AWS integrated loggin service. | `Python` `JavaScript` | ![Active](https://img.shields.io/badge/Status-Active-success?style=flat-square) |
-| [**Gotenberg Scripts**](https://github.com/JonathanWindell/Gotenberg-Scripts) | Automation for high-fidelity PDF conversions via Gotenberg. | `Scripts` `PDF` | ![Active](https://img.shields.io/badge/Status-Active-success?style=flat-square) |
 | [**n8n-workflows**](https://github.com/JonathanWindell/n8n-workflows) | Collection of custom automation nodes and workflow logic. | `n8n` `Low-Code` | ![Updates](https://img.shields.io/badge/Status-Updates-orange?style=flat-square) |
 
+
+**Projects: Open Source & Techical Documentation**
+| Repository | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
 | [**Open Source Portfolio**](https://github.com/JonathanWindell/Open-Source-Portfolio) | Open source contributions I've made. |`Contributions` | ![Active](https://img.shields.io/badge/Status-Active-success?style=flat-square) |
 | [**Git-101**](https://github.com/JonathanWindell/Git-Documentation-101) | Easily understandable git documentation. |`Docs` `Wiki` | ![Helpful](https://img.shields.io/badge/Status-Docs-informational?style=flat-square) |
+
+**Projects: Microservices**
+| Repository | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| [**API Shell**](https://github.com/JonathanWindell/API-Shell) | Fully Developed API Shell ready for creating API:s. | `Python` `CLI` | ![Active](https://img.shields.io/badge/Status-Active-success?style=flat-square) |
+| [**Javalite**](https://github.com/JonathanWindell/Javalite) | Lightweight Java microservice for logging. | `Java` `Core` | ![Active](https://img.shields.io/badge/Status-Active-success?style=flat-square) |
+| [**Logthread**](https://github.com/JonathanWindell/Logthread) | AWS integrated loggin service. | `Python` `JavaScript` | ![Active](https://img.shields.io/badge/Status-Active-success?style=flat-square) |
+| [**Gotenberg Scripts**](https://github.com/JonathanWindell/Gotenberg-Scripts) | Automation for high-fidelity PDF conversions via Gotenberg. | `Scripts` `PDF` | ![Active](https://img.shields.io/badge/Status-Active-success?style=flat-square) |
+
+**Projects: In Development**
+| Repository | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
 | [**Net-Observatory**](#) | *IP, MAC & Port analyser for local networks.* | `Python` `NMap`, `ETL` | ![Status](https://img.shields.io/badge/Status-Upcoming-lightgrey?style=flat-square) |
 
 ### Tech Stack & Tools
