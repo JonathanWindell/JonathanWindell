@@ -28,7 +28,7 @@ If you have a project that needs a structured approach or just want to chat abou
 | Repository | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
 | [**Personal Homelab**](https://github.com/JonathanWindell/Homelab) | Config files & overview for home server setup. | `Docker` `Self-Hosted` | ![Active](https://img.shields.io/badge/Status-Active-success?style=flat-square) |
-| [**Homelab IaC**](https://github.com/JonathanWindell/Homelab-IaC) | Infrastructure-as-code for home server | `Terraform` `Ansible` | ![Active](https://img.shields.io/badge/Status-Active-success?style=flat-square) |
+| [**Homelab IaC**](https://github.com/JonathanWindell/Homelab-IaC) | Infrastructure as Code for home server | `Terraform` `Ansible` | ![Active](https://img.shields.io/badge/Status-Active-success?style=flat-square) |
 | [**Homelab Manuals**](https://github.com/JonathanWindell/Homelab-Manuals) | Documentation and guides for local server infrastructure. | `Docs` `Wiki` | ![Helpful](https://img.shields.io/badge/Status-Docs-informational?style=flat-square) |
 | [**n8n-workflows**](https://github.com/JonathanWindell/n8n-workflows) | Collection of custom automation nodes and workflow logic. | `n8n` `Low-Code` | ![Updates](https://img.shields.io/badge/Status-Updates-orange?style=flat-square) |
 
